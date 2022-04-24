@@ -1,6 +1,14 @@
 {
   "productList": [
-
+    {
+      "productName": "Iphone 12 pro max",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 2222,
+      "comment": "this product is new",
+      "date": "2022-04-24T00:00:00.000Z",
+      "id": 1
+    }
   ],
   "comments": [
     {
